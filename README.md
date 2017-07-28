@@ -1,7 +1,6 @@
 # Sim-6800
 Motorola 6800 Emulator
 
-
   Operation               |Mnem.|Immed.|Direct|Index |Extend|Inher.|Operation |CC Reg|
                           |     |OP·~·#|OP·~·#|OP·~·#|OP·~·#|OP·~·#|          |HINZVC|
 
